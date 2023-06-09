@@ -10,6 +10,9 @@
 
 
 ### Operation of the BitHacker v2 program
+
 [Generating 100,000 Bitcoin Private Keys to Solve the 1000 $BTC #Bitcoin Challenge [Bitcoin Puzzle] / #bitcoinchallenge #bitcoinpuzzle](https://youtu.be/V0EYkK4fThw)
+
 [Generating 100,000 Bitcoin Private Keys to Solve the 1000 $BTC #Bitcoin Challenge [Bitcoin Puzzle] / #bitcoinchallenge #bitcoinpuzzle](https://odysee.com/@topcrypto:d/bithacker:a?r=6p9MVErKG75MkBnDtWe5aProPuc3tycG)
+
 Telegram: [Crypto Hunter Chat / Крипточат Охотников за Криптой](https://t.me/cryptoxxxhunter)
