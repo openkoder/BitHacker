@@ -11,36 +11,36 @@
 
 ### Operation of the BitHacker v2 program
 
-[Generating 100,000 Bitcoin Private Keys to Solve the 1000 $BTC #Bitcoin Challenge [Bitcoin Puzzle] / #bitcoinchallenge #bitcoinpuzzle](https://youtu.be/V0EYkK4fThw)
+[Generating 100,000 Bitcoin Private Keys to Solve the 1000 $BTC #Bitcoin Challenge [Bitcoin Puzzle] / #bitcoinchallenge #bitcoinpuzzle](https://youtu.be/SRn-NKSqyqI)
 
 [Generating 100,000 Bitcoin Private Keys to Solve the 1000 $BTC #Bitcoin Challenge [Bitcoin Puzzle] / #bitcoinchallenge #bitcoinpuzzle](https://odysee.com/@topcrypto:d/bithacker:a?r=6p9MVErKG75MkBnDtWe5aProPuc3tycG)
 
-**Telegram:** [Crypto XXX Invest Chat / Крипто XXX Инвестиции чат](https://t.me/cryptoxxxinvest)
+**Telegram:** [Консультации и обучение работе с криптовалютой:Crypto XXS Chat / Крипто XXS чат](https://t.me/xxscrypto)
 
 -----------
 
 
 ### Support me:
 
-**Bitcoin:** 3KWuXVHWUwz1BR3zj5nMRWxhAK3YtSMrrU
+**Bitcoin:** bc1qchfnkugdcazwf6mhq9ke5tj32hrc4cd5v9f80z
 
 **Unified ZCash address:**
 u1q4rruex38eefgx22x264tc9hthnm0hd5qhyaxxv80fq7v0mt78wrv035zk9qwqp489jepgc7quq3cdawqcfge8adp0f4s8hdnsqjgh5g
 
-**Transparent ZCash address:** t1WGonwB2TVkc6GkLt4K8QmSpt5j2wbKsr1
+**Transparent ZCash address:** t1XJXAYuJmXV4aVJ3pDSiRoujbPrD7dT55t
 
-**Litecoin:** MLRNskfiRvTGJZPTiMJY8rz5bzRzQmvqD6
+**Litecoin:** ltc1qe0jwmpq92vu63r3hl9m29n2x4gej2scaa2tekw
 
-bitcoincash:qpraysfehd56ew6q29h7w3382jnze4xt5supp9vwxm
+**Bitcoin Cash:** qqd5kmzjrzcp4dv3y577d8clq3adkc5c4q92ecafdh 
 
-**Ethereum:** 0x02f259c9eeb385e07a9b9f066001738ffc470147
+**Ethereum:** 0xD4E6f5Dade9E5C4f081174aBbC0e7EE05CD6fC3C
 
-**BNB (BEP20):** 0xe4e0f1e921c09128d33952fd1cf596003995e252
+**BNB (BEP20):** 0xD4E6f5Dade9E5C4f081174aBbC0e7EE05CD6fC3C
 
-**Doge:** DTLViap4u9F3PZgjKzy5752brQSLJ9TBGg
+**Doge:** DDujAyHmcCESigEUbXVWkGuvexj5nQHBMt
 
-**Dash:** XrrxcGZWe16qtrkE9PM7xyJnPcZeWd4RUP
+**Dash:** XhJiqvda1ZWkbSdSAgpifHGz5dcmKhtSES
 
-**PIVX:** D7nrvs5zL6z2TqUoPAEK9aR5ic3NztHmjL
+**PIVX:** D86yDj8n4jjrSVMcgtW9tD7EMooAUCb4XR
 
-**USDT (trc20):** TTei9TzCvgDsmEoAEdL52w35PALUb4AQ2b
+**USDT (trc20):** TMFGJTqZCBvuQCDtWLkdAAu3yW8rrFS8UV
