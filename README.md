@@ -18,12 +18,12 @@ Post: [https://bitcointalk.org/index.php?topic=5322040.0](https://bitcointalk.or
 
 The program generates random Bitcoin private keys, derives both compressed and uncompressed public keys and addresses, and checks them against a target list. If a match is found, the corresponding private key (in WIF format) is saved to `bingo.txt`.
 
-> 📺 **Video tutorials & demonstrations the BitHacker v2 program:**
-> - [Generating 100,000 Bitcoin Private Keys to Solve the 1000 $BTC #Bitcoin Challenge [Bitcoin Puzzle]](https://youtu.be/SRn-NKSqyqI)
-> - [Operation of the BitHacker v2 program](https://odysee.com/@topcrypto:d/bithacker:a?r=6p9MVErKG75MkBnDtWe5aProPuc3tycG)
+📺 **Video tutorials & demonstrations the BitHacker v2 program:**
+- [Generating 100,000 Bitcoin Private Keys to Solve the 1000 $BTC #Bitcoin Challenge [Bitcoin Puzzle]](https://youtu.be/SRn-NKSqyqI)
+- [Operation of the BitHacker v2 program](https://odysee.com/@topcrypto:d/bithacker:a?r=6p9MVErKG75MkBnDtWe5aProPuc3tycG)
 
-> 💬 **Community & Support:**
-> - **Telegram:** [Crypto XXS Chat / Крипто XXS чат](#) — consultations and training on working with cryptocurrency
+💬 **Community & Support:**
+- **Telegram:** [Crypto XXS Chat / Крипто XXS чат](#) — consultations and training on working with cryptocurrency
 
 ---
 
